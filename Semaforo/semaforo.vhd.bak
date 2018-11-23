@@ -1,0 +1,23 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+--Realizado por: Alejandro Meza- German Caycedo - Dicson Quimbayo - Santiago Florian 
+
+entity semaforo_v1 is
+port(timer,clock,carro: in std_logic;
+		avenida,camino,temporizador: out std_logic);
+end entity;
+
+
+architecture semaforo_arc of semaforo is
+begin
+		process(r,c) is
+		begin
+			if(r = '1') then
+				a <= "00";
+				
+			elsif(rising_edge(c)) then
+				a <= a + "01";
+			end if;
+		end process;
+end architecture;

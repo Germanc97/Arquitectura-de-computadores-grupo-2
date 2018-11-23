@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, D:/Universidad/quartus/VHDL/Not_v1.vhd
+source_file = 1, D:/Universidad/quartus/VHDL/And_v1.vhd
+source_file = 1, D:/Universidad/quartus/VHDL/db/Not_v1.cbx.xml
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = not_v1
+instance = comp, \x~I\, x, not_v1, 1
+instance = comp, \y~I\, y, not_v1, 1

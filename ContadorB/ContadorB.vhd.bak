@@ -1,0 +1,12 @@
+library ieee;
+use ieee.std.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+
+
+entity ContadorB is 
+port (r,c: in std_logic;
+		a : out std_logic_vector(1 downto 0)
+		);
+end entity;
+

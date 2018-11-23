@@ -1,0 +1,9 @@
+|contador_v1
+r => a[0]~reg0.ACLR
+r => a[1]~reg0.ACLR
+c => a[0]~reg0.CLK
+c => a[1]~reg0.CLK
+a[0] <> a[0]~reg0
+a[1] <> a[1]~reg0
+
+

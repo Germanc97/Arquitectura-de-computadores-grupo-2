@@ -1,0 +1,15 @@
+|Decoder
+a => salida3.IN0
+a => salida4.IN0
+a => salida1.IN0
+a => salida2.IN0
+b => salida2.IN1
+b => salida4.IN1
+b => salida1.IN1
+b => salida3.IN1
+salida1 <= salida1.DB_MAX_OUTPUT_PORT_TYPE
+salida2 <= salida2.DB_MAX_OUTPUT_PORT_TYPE
+salida3 <= salida3.DB_MAX_OUTPUT_PORT_TYPE
+salida4 <= salida4.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\VHDL\logic_gates\simulation\qsim
+vlogic_gates
+Z1 I9PTHCD5XKiGo@gMzj7N0c1
+Z2 V<CI3jC6ffmTbZV<?kMl4]2
+Z3 dE:\VHDL\logic_gates\simulation\qsim
+Z4 w1536339212
+Z5 8logic_gates.vo
+Z6 Flogic_gates.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 k86z58h_M62FZoN;AIaHg2
+!s85 0
+Z10 !s108 1536339218.594000
+Z11 !s107 logic_gates.vo|
+Z12 !s90 -work|work|logic_gates.vo|
+!s101 -O0
+vlogic_gates_vlg_check_tst
+!i10b 1
+!s100 <d[k=WaFCnnLB[e?c6SS<1
+I>jB>HO:L4K<K^4[EPeAZ73
+VBLPT>5FN_B??H>6QHg99B3
+R3
+Z13 w1536339206
+Z14 8logic_gates.vt
+Z15 Flogic_gates.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1536339219.309000
+Z17 !s107 logic_gates.vt|
+Z18 !s90 -work|work|logic_gates.vt|
+!s101 -O0
+R8
+vlogic_gates_vlg_sample_tst
+!i10b 1
+!s100 ^f=2iEeG2JT8eghS]XOS90
+I_HA]HZlaRX[g5?iVDG5DB0
+VG8m12UF;e[GcF>i^k_UJ]3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vlogic_gates_vlg_vec_tst
+!i10b 1
+!s100 k7:T`PMJ9RfAdi3A?b]WJ2
+I<aQ_R?czl>KHY8h7CTI=P2
+ViJ1i?9mPkfO3b<n^=fdaD0
+R3
+R13
+R14
+R15
+L0 235
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

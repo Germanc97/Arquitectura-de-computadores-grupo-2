@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Universidad\quartus\VHDL\OR\simulation\modelsim
+Eor_v1
+Z1 w1536290208
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\Universidad\quartus\VHDL\OR\simulation\modelsim
+Z5 8D:/Universidad/quartus/VHDL/OR/Or_v1.vhd
+Z6 FD:/Universidad/quartus/VHDL/OR/Or_v1.vhd
+l0
+L6
+VA3B_hl2dKZ0<]kIU0gkll1
+!s100 ?::3U2z_ZPh_o:DHDSneS3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1536290235.500000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/Universidad/quartus/VHDL/OR/Or_v1.vhd|
+Z10 !s107 D:/Universidad/quartus/VHDL/OR/Or_v1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Aor_v1_arc
+R2
+R3
+DEx4 work 5 or_v1 0 22 A3B_hl2dKZ0<]kIU0gkll1
+l16
+L15
+Va>1oAoC4?RYBY;DYgNH140
+!s100 Y]ie;ZSeAhX:kfAJDbeik1
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

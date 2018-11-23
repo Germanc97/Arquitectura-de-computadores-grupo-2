@@ -1,0 +1,8 @@
+|multiplex
+S => O.IN0
+S => O.IN0
+F0 => O.IN1
+F1 => O.IN1
+O <= O.DB_MAX_OUTPUT_PORT_TYPE
+
+

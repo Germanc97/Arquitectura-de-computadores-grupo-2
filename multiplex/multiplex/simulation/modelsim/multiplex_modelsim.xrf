@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/santiflo/Desktop/Clase03/multiplex/multiplex.vhd
+source_file = 1, C:/Users/santiflo/Desktop/Clase03/multiplex/multiplex.vwf
+source_file = 1, C:/Users/santiflo/Desktop/Clase03/multiplex/db/multiplex.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = multiplex
+instance = comp, \S~I , S, multiplex, 1
+instance = comp, \F1~I , F1, multiplex, 1
+instance = comp, \F0~I , F0, multiplex, 1
+instance = comp, \O~0 , O~0, multiplex, 1
+instance = comp, \O~I , O, multiplex, 1

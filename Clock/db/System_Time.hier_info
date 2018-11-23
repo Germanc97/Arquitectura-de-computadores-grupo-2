@@ -1,0 +1,63 @@
+|clock
+A[0] => flipflop_D:lab1.D
+A[1] => flipflop_D:lab2.D
+A[2] => flipflop_D:lab3.D
+A[3] => flipflop_D:lab4.D
+S => flipflop_D:lab1.CLK
+S => flipflop_D:lab2.CLK
+S => flipflop_D:lab3.CLK
+S => flipflop_D:lab4.CLK
+R => flipflop_D:lab1.R
+R => flipflop_D:lab2.R
+R => flipflop_D:lab3.R
+R => flipflop_D:lab4.R
+Q[0] <= flipflop_D:lab1.Q
+Q[1] <= flipflop_D:lab2.Q
+Q[2] <= flipflop_D:lab3.Q
+Q[3] <= flipflop_D:lab4.Q
+
+
+|clock|flipflop_D:lab1
+D => Q~reg0.DATAIN
+D => NQ~reg0.DATAIN
+CLK => NQ~reg0.CLK
+CLK => Q~reg0.CLK
+R => NQ~reg0.PRESET
+R => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+NQ <= NQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|clock|flipflop_D:lab2
+D => Q~reg0.DATAIN
+D => NQ~reg0.DATAIN
+CLK => NQ~reg0.CLK
+CLK => Q~reg0.CLK
+R => NQ~reg0.PRESET
+R => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+NQ <= NQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|clock|flipflop_D:lab3
+D => Q~reg0.DATAIN
+D => NQ~reg0.DATAIN
+CLK => NQ~reg0.CLK
+CLK => Q~reg0.CLK
+R => NQ~reg0.PRESET
+R => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+NQ <= NQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|clock|flipflop_D:lab4
+D => Q~reg0.DATAIN
+D => NQ~reg0.DATAIN
+CLK => NQ~reg0.CLK
+CLK => Q~reg0.CLK
+R => NQ~reg0.PRESET
+R => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+NQ <= NQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

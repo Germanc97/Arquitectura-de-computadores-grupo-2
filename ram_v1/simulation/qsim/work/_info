@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\VHDL\ram_v1\simulation\qsim
+vram_v1
+Z1 !s100 7n`90Xe[EK_SMjcfcaA=`1
+Z2 IBI@]UB@Ll6>A0]MEMLT2o3
+Z3 Vl2[naOeW^c`fn;YM=GAZa3
+Z4 dC:\altera\13.0sp1\VHDL\ram_v1\simulation\qsim
+Z5 w1540576619
+Z6 8ram_v1.vo
+Z7 Fram_v1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ram_v1.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1540576620.702000
+Z12 !s107 ram_v1.vo|
+!s101 -O0
+vram_v1_vlg_check_tst
+!i10b 1
+Z13 !s100 2HkGGa?6G^@Rnm3=WNZa81
+Z14 Ilmkhe`UCe04bQ;^2m5=3i0
+Z15 VMIdmOe``K=m;zFCT@n6nG3
+R4
+Z16 w1540576618
+Z17 8ram_v1.vt
+Z18 Fram_v1.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z19 !s108 1540576620.848000
+Z20 !s107 ram_v1.vt|
+Z21 !s90 -work|work|ram_v1.vt|
+!s101 -O0
+R10
+vram_v1_vlg_sample_tst
+!i10b 1
+Z22 !s100 m7cnL^a>[A?E`4l2P9kFf0
+Z23 ILiKW7lKQdR@cfFzNIg_hN2
+Z24 VD5Z^N8=YR4C8zH_Y9SNOA2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vram_v1_vlg_vec_tst
+!i10b 1
+!s100 aEzZ5Wjz2ZTTMSRd5E;9R0
+I^NeW5N7d5oVY34;iNAIzE3
+Z25 Vfjj2BzjT;1[8CbFdmJGZ[2
+R4
+R16
+R17
+R18
+Z26 L0 285
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

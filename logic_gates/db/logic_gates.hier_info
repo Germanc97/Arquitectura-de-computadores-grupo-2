@@ -1,0 +1,14 @@
+|logic_gates
+x1 => y_and.IN0
+x1 => y_or.IN0
+x1 => y_xor.IN0
+x2 => y_and.IN1
+x2 => y_or.IN1
+x2 => y_xor.IN1
+x2 => y_not.DATAIN
+y_and <= y_and.DB_MAX_OUTPUT_PORT_TYPE
+y_or <= y_or.DB_MAX_OUTPUT_PORT_TYPE
+y_not <= x2.DB_MAX_OUTPUT_PORT_TYPE
+y_xor <= y_xor.DB_MAX_OUTPUT_PORT_TYPE
+
+

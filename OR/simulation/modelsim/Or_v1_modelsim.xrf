@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, D:/Universidad/quartus/VHDL/OR/Or_v1.vhd
+source_file = 1, D:/Universidad/quartus/VHDL/OR/db/Or_v1.cbx.xml
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/universidad/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = or_v1
+instance = comp, \x~I\, x, or_v1, 1
+instance = comp, \y~I\, y, or_v1, 1
+instance = comp, \z~0\, z~0, or_v1, 1
+instance = comp, \z~I\, z, or_v1, 1

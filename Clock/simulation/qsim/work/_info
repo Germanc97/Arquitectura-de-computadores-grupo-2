@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\santiflo\Desktop\Clock\simulation\qsim
+vclock
+Z1 !s100 bnTT>oR]hgURC0G`fU1[?2
+Z2 I78Nb:zN_z]K=]4EV2T<Jc2
+Z3 VnZdagBf^WnnQz1:4H:QYS1
+Z4 dC:\VDHL_Source\Clock\simulation\qsim
+Z5 w1539302108
+Z6 8System_Time.vo
+Z7 FSystem_Time.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|System_Time.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1539302109.351000
+Z12 !s107 System_Time.vo|
+!s101 -O0
+vclock_vlg_check_tst
+!i10b 1
+Z13 !s100 ?P3@]JNd_O5TV6izAaR2=2
+Z14 IMD7Kg6aCERd31JzABXK_F0
+Z15 Vf[bJ46S98`Gm_QQoP5iRo0
+R4
+Z16 w1539302107
+Z17 8System_Time.vt
+Z18 FSystem_Time.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1539302109.413000
+Z20 !s107 System_Time.vt|
+Z21 !s90 -work|work|System_Time.vt|
+!s101 -O0
+R10
+vclock_vlg_sample_tst
+!i10b 1
+Z22 !s100 `V8@7LS:6Z1J2eoE`V[[L0
+Z23 IK9TPAo:UBj`TN;eYiRS1I1
+Z24 VAAaEU]I4;RANe`UTbO?J>2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vclock_vlg_vec_tst
+!i10b 1
+Z25 !s100 WbO3MRdAEiZ@2Mmf;bI6Y1
+Z26 IQG0lhN:T2C92cCPaW58333
+Z27 VPUHSf`;a;h`PHV@Iaa=Ii0
+R4
+R16
+R17
+R18
+Z28 L0 209
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vflipflop_D
+Z29 IIGEV15OkGEDZIY=[E=5FA2
+Z30 VhN==:X:RcffOlQH5IXaUX2
+Z31 dC:\Users\santiflo\Desktop\Clock\simulation\qsim
+Z32 w1539115191
+R6
+R7
+L0 31
+R8
+r1
+31
+R10
+Z33 nflipflop_@d
+Z34 !s100 4fOFC[^2iMM85o3WN;Dzb2
+Z35 !s108 1539115194.824000
+R12
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vflipflop_D_vlg_check_tst
+Z36 IW1;fR2mf4PJ^az]4QXclV3
+Z37 Vd[1BRQV^>IG]ZMjoQ2Sag1
+R31
+Z38 w1539115190
+R17
+R18
+L0 61
+R8
+r1
+31
+Z39 !s108 1539115194.970000
+Z40 !s107 System_Time.vt|
+R21
+R10
+Z41 nflipflop_@d_vlg_check_tst
+Z42 !s100 ;`UPhZUYE5VB;de?jdmdb1
+!i10b 1
+!s85 0
+!s101 -O0
+vflipflop_D_vlg_sample_tst
+Z43 IA2>I:40S0SGUVFLR<if:D1
+Z44 VVSoMa<>=aPYeCU@U6^8lV1
+R31
+R38
+R17
+R18
+L0 29
+R8
+r1
+31
+R39
+R40
+R21
+R10
+Z45 nflipflop_@d_vlg_sample_tst
+Z46 !s100 LX@4olnzb@?hEUzhCXSfn1
+!i10b 1
+!s85 0
+!s101 -O0
+vflipflop_D_vlg_vec_tst
+Z47 I9Qm1QXXzH0GJZMfR4hCIj2
+Z48 VAnNk28lC<SIbNMzjV6nPE3
+R31
+R38
+R17
+R18
+Z49 L0 156
+R8
+r1
+31
+R39
+R40
+R21
+R10
+Z50 nflipflop_@d_vlg_vec_tst
+Z51 !s100 8Bz`O>6fS4JjZN9nUk^XK0
+!i10b 1
+!s85 0
+!s101 -O0

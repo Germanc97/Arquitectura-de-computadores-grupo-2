@@ -1,0 +1,13 @@
+|semaforo
+timer => ~NO_FANOUT~
+clock => estado.IN0
+clock => avenida$latch.LATCH_ENABLE
+clock => camino$latch.LATCH_ENABLE
+carro => estado.IN1
+carro => camino.OUTPUTSELECT
+carro => avenida.OUTPUTSELECT
+avenida <= avenida$latch.DB_MAX_OUTPUT_PORT_TYPE
+camino <= camino$latch.DB_MAX_OUTPUT_PORT_TYPE
+act_temporizador <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
