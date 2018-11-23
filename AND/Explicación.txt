@@ -1,0 +1,3 @@
+Explicación codigo AND:
+
+Lo que se realizo en este laboratorio fue crear una compuerta AND, para ello se hizo uso de 2 entradas y 1 salida(en este caso señales) en la entidad and_v1. Como ultimo paso en la arquitectura se le asigna a la entrada z la operación logica AND de X y Y.

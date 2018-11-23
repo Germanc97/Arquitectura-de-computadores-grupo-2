@@ -1,0 +1,3 @@
+Explicacion codigo:
+
+En este laboratorio se implemento una memoria ROM en donde se hace uso de un clock, una direccion de memoria con tamaño predeterminado(16 bits) y la salida de tamaño 8 bits. Basicamente lo que se realiza en la arquitectura es importar o traer de un archivo .mif las instrucciones declaradas en el mismo y por medio de un process se asigna a una variable auxiliar(reg address) la direccion de entrada, esto cuando hay un flanco de subida en el clock. por ultimo la salida de la ROM sera el dato que esta ubicado en la rom pero con direccion reg_address. 

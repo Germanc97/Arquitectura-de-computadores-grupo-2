@@ -1,0 +1,7 @@
+﻿Explicacion codigo:
+
+En este laboratorio se implemento una memoria RAM en donde se hace uso de una señal de clock y we,
+ una direccion de memoria con tamaño predeterminada (16 bits) tanto para leer y escribir en la memoria, el dato de entrada
+ y el dato de salida de tamaño 8 bits. Basicamente lo que se realiza en la arquitectura es escribir el dato en la memoria
+ si la señal "we" esta activada, en caso contrario se toma como una lectura en donde a la salida se le asignara el dato en
+ la direccion de memoria dentro de la ram.  

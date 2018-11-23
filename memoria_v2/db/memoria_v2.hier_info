@@ -1,0 +1,19 @@
+|memoria_v2
+clk => reg_address[0].CLK
+clk => reg_address[1].CLK
+clk => reg_address[2].CLK
+clk => reg_address[3].CLK
+address[0] => reg_address[0].DATAIN
+address[1] => reg_address[1].DATAIN
+address[2] => reg_address[2].DATAIN
+address[3] => reg_address[3].DATAIN
+data_out[0] <= rom.DATAOUT
+data_out[1] <= rom.DATAOUT1
+data_out[2] <= rom.DATAOUT2
+data_out[3] <= rom.DATAOUT3
+data_out[4] <= rom.DATAOUT4
+data_out[5] <= rom.DATAOUT5
+data_out[6] <= rom.DATAOUT6
+data_out[7] <= rom.DATAOUT7
+
+

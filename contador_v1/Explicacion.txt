@@ -1,0 +1,3 @@
+Explicacion codigo:
+
+En este laboratorio se implemento por primera vez condicionales en VHDL y esto es posible mediante el uso de procesos(process), ademas se declaro 1 vector de 2 bits inout y 2 señales de entrada que representan el Reset y el CLK y lo que se realizó dentro del process fue una condicion que cuando el reset es igual a 1 al vector de salida se le asigna 00 y sino cuando el clock esta en un flanco de subida se le asigna al vector salida el mismo sumado 1(osea va contando).

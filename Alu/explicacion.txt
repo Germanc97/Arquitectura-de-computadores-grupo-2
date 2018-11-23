@@ -1,0 +1,5 @@
+Explicacion de codigo:
+
+
+En este laboratorio se planteó la primera versión de una Alu, se declararon sus entradas y salidas
+posteriormente a la salida se le asigno distintos valores dependiendo del vector S. 

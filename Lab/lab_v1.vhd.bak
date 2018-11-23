@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std;
+
+entity decoder is
+port(l,s,d : in std_logic;
+		a: out std_logic);
+end entity;
+
+
+architecture decoder_arc of decoder is
+begin
+		a <= (l or s) and d
+	
+end architecture;

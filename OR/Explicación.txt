@@ -1,0 +1,3 @@
+Explicación codigo OR:
+
+Lo que se realizo en este laboratorio fue crear una compuerta OR, para ello se hizo uso de 2 entradas y 1 salida(en este caso señales) en la entidad Or_v1. Como ultimo paso en la arquitectura se le asigna a la salida z la operación logica OR de X y Y.

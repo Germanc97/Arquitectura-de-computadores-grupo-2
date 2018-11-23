@@ -1,0 +1,3 @@
+Explicación codigo NOT:
+
+Lo que se realizo en este laboratorio fue crear una compuerta NOT, para ello se hizo uso de 1 entrada y 1 salida(en este caso señales) en la entidad not_v1. Como ultimo paso en la arquitectura se le asigna a la salida "y" la operación logica NOT X.

@@ -11,4 +11,4 @@ begin
 	O <= (F0 and (not S)) xor (F1 and S);
 end architecture;
 
---Tarea: Hacer un multiplexor de 8 entradas y una salida
+

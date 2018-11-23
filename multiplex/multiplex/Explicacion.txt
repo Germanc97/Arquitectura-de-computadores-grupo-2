@@ -1,0 +1,3 @@
+Explicacion codigo:
+
+Para este laboratorio fue necesario 3 entradas y una salida(en este caso señales) la salida fue propuesta en clase mediante las diapositivas, por lo que se lo que tuvimos que realizar fue buscar la manera de encontrar un patron para llegar a esa salids propuesta con compuertas logicas. Para esto se probaron con metodos como ensayo y error con tablas logicas y tambien mapas de karnaugh, al final en la solución se hizo uso de un xor entre dos negaciones junto con una And a todo esto.

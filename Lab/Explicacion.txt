@@ -1,0 +1,3 @@
+Explicacion codigo:
+
+Para este laboratorio se crearon 3 entradas y una salida(en este caso señales) la salida fue propuesta en clase, por lo que se lo que tuvimos que realizar fue buscar la manera de encontrar un patron para llegar a esa salida propuesta con compuertas logicas. Para esto se probaron con metodos como ensayo y error con tablas logicas y tambien mapas de karnaugh, al final en la solución se hizo uso de un or entre dos entradas y su resultado se opera con un AND y otra entrada.

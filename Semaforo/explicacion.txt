@@ -1,0 +1,9 @@
+﻿Explicacion codigo:
+
+
+Lo que se realizo en el codigo es abstractamente una maquina de estados en donde se tiene una autopista y un camino,
+ cuando el semaforo de la autopista esta en rojo el camino debe estar en verde y visceversa. Esencialmente se opto
+ por el uso de la clausula case en donde se declaran dos estados Green y Red, cuando el estado esta en Green se coloco
+ la avenida en 1 y el camino en 0 y cuando se esta en estado Red se colocara la avenida en 0 y el camino en 0. 
+Tambien hay otras variables a considerar como que si hay carros en ese transcurso o no y tambien hay un clock estimado
+ pero esto no se logró concretar por parte del grupo.

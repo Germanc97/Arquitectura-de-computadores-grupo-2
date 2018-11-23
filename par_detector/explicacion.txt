@@ -1,0 +1,6 @@
+﻿Explicación codigo:
+
+En este laboratorio se realizo dos archivos vhd(par_detector y test_package) el cual es un ejemplo practico para por decirlo de una u otra forma "empaquetar"
+ o crear modulos de arquitecturas, entonces en el caso del proyecto en la arquitectura se observa el uso de componentes ya creados previamente y los cuales 
+tienen una funciones especificas. En este caso en especifico el par_detector es un componente que va a ser utilizado por test_package. Además de realizar 
+el mapeo correspondiente para el funcionamiento de los mismo.  
